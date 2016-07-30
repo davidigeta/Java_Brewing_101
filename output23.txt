@@ -1,0 +1,278 @@
+current node      = 1000,689.3,Martha Dandridge Custis Washington
+type              = leaf
+depth             = 4
+ancestors         = 
+                    1100,369.17,George Washington
+                    1111,999.99,George Herbert Walker Bush
+                    1200,-181.29,Abigail Smith Adams
+                    5000,918.15,Abigail Powers Fillmore
+left descendants  = none
+right descendants = none
+
+current node      = 2000,267.96,Louisa Catherine Johnson Adams
+type              = leaf
+depth             = 7
+ancestors         = 
+                    2100,643.27,Emily Donelson
+                    1900,478.76,Elizabeth Kortright Monroe
+                    1800,518.59,Dolley Madison
+                    1600,717.77,Dolley Madison
+                    2200,-128.58,Andrew Jackson
+                    1200,-181.29,Abigail Smith Adams
+                    5000,918.15,Abigail Powers Fillmore
+left descendants  = none
+right descendants = none
+
+current node      = 3000,-600.47,Letitia Christian Tyler
+type              = internal
+depth             = 11
+ancestors         = 
+                    3200,-782.31,John Tyler
+                    2800,-182.39,Jane Irwin Harrison
+                    3500,-836.1,James K. Polk
+                    4100,-846.55,Franklin Pierce
+                    2600,193.22,Anna Tuthill Symmes Harrison
+                    4500,-862.78,Anna Eleanor Roosevelt
+                    2400,-155.51,Angelica Van Buren
+                    4700,961.6,Andrew Johnson
+                    2200,-128.58,Andrew Jackson
+                    1200,-181.29,Abigail Smith Adams
+                    5000,918.15,Abigail Powers Fillmore
+left descendants  = 
+                    2900,-451.92,William Henry Harrison
+right descendants = 
+                    3100,672.54,Priscilla Cooper Tyler
+
+current node      = 3333,777.77,William Jefferson Clinton
+type              = leaf
+depth             = 13
+ancestors         = 
+                    3400,164.53,Sarah Childress Polk
+                    3300,-340.99,Julia Gardiner Tyler
+                    3200,-782.31,John Tyler
+                    2800,-182.39,Jane Irwin Harrison
+                    3500,-836.1,James K. Polk
+                    4100,-846.55,Franklin Pierce
+                    2600,193.22,Anna Tuthill Symmes Harrison
+                    4500,-862.78,Anna Eleanor Roosevelt
+                    2400,-155.51,Angelica Van Buren
+                    4700,961.6,Andrew Johnson
+                    2200,-128.58,Andrew Jackson
+                    1200,-181.29,Abigail Smith Adams
+                    5000,918.15,Abigail Powers Fillmore
+left descendants  = none
+right descendants = none
+
+current node      = 4000,860.22,Jane Means Appleton Pierce
+type              = internal
+depth             = 9
+ancestors         = 
+                    3500,-836.1,James K. Polk
+                    4100,-846.55,Franklin Pierce
+                    2600,193.22,Anna Tuthill Symmes Harrison
+                    4500,-862.78,Anna Eleanor Roosevelt
+                    2400,-155.51,Angelica Van Buren
+                    4700,961.6,Andrew Johnson
+                    2200,-128.58,Andrew Jackson
+                    1200,-181.29,Abigail Smith Adams
+                    5000,918.15,Abigail Powers Fillmore
+left descendants  = 
+                    3800,-836.03,Lucy Ware Webb Hayes
+                    3600,297.47,Margaret Mackall Smith Taylor
+                    3700,-154.06,Zachary Taylor
+                    3900,-175.76,Millard Fillmore
+right descendants = none
+
+ERROR: No such Person for 4001,0.0,SEARCH KEY
+
+current node      = 5000,918.15,Abigail Powers Fillmore
+type              = root
+depth             = 0
+ancestors         = none
+left descendants  = 
+                    1200,-181.29,Abigail Smith Adams
+                    1111,999.99,George Herbert Walker Bush
+                    1100,369.17,George Washington
+                    1000,689.3,Martha Dandridge Custis Washington
+                    2200,-128.58,Andrew Jackson
+                    1600,717.77,Dolley Madison
+                    1300,-414.06,John Adams
+                    1400,350.82,Martha Jefferson Randolph
+                    1500,-606.18,Thomas Jefferson
+                    1800,518.59,Dolley Madison
+                    1700,-408.82,Thomas Jefferson
+                    1900,478.76,Elizabeth Kortright Monroe
+                    2100,643.27,Emily Donelson
+                    2000,267.96,Louisa Catherine Johnson Adams
+                    4700,961.6,Andrew Johnson
+                    2400,-155.51,Angelica Van Buren
+                    2222,888.88,Barbara Pierce Bush
+                    2300,5.34,Sarah Yorke Jackson
+                    4500,-862.78,Anna Eleanor Roosevelt
+                    2600,193.22,Anna Tuthill Symmes Harrison
+                    2500,967.14,Martin Van Buren
+                    4100,-846.55,Franklin Pierce
+                    3500,-836.1,James K. Polk
+                    2800,-182.39,Jane Irwin Harrison
+                    2700,-243.19,William Henry Harrison
+                    3200,-782.31,John Tyler
+                    3000,-600.47,Letitia Christian Tyler
+                    2900,-451.92,William Henry Harrison
+                    3100,672.54,Priscilla Cooper Tyler
+                    3300,-340.99,Julia Gardiner Tyler
+                    3400,164.53,Sarah Childress Polk
+                    3333,777.77,William Jefferson Clinton
+                    4000,860.22,Jane Means Appleton Pierce
+                    3800,-836.03,Lucy Ware Webb Hayes
+                    3600,297.47,Margaret Mackall Smith Taylor
+                    3700,-154.06,Zachary Taylor
+                    3900,-175.76,Millard Fillmore
+                    4200,-38.12,Harriet Lane
+                    4300,618.47,James Buchanan
+                    4400,-290.63,Mary Todd Lincoln
+                    4600,261.17,Eliza McCardle Johnson
+                    4800,647.86,Julia Dent Grant
+                    4900,-328.35,Ulysses S. Grant
+right descendants = 
+                    8200,-367.36,Abraham Lincoln
+                    6100,13.99,Benjamin Harrison
+                    6000,-208.54,Caroline Lavinia Scott Harrison
+                    5500,986.35,Chester A. Arthur
+                    5300,-220.75,James A. Garfield
+                    5200,-513.29,Lucretia Rudolph Garfield
+                    5100,224.75,Rutherford B. Hayes
+                    5400,261.42,Mary McElroy
+                    5800,48.18,Frances Folsom Cleveland
+                    5700,-995.11,Grover Cleveland
+                    5600,669.12,Rose Cleveland
+                    5900,-723.86,Grover Cleveland
+                    6300,730.61,Benjamin Harrison
+                    6200,-478.33,Mary Harrison McKee
+                    7900,-536.2,Calvin Coolidge
+                    7400,586.55,Edith Bolling Galt Wilson
+                    6800,-330.13,Edith Kermit Carow Roosevelt
+                    6400,115.06,Frances Folsom Cleveland
+                    6500,307.06,Grover Cleveland
+                    6600,262.89,Ida Saxton McKinley
+                    6700,-44.35,William McKinley
+                    7200,-126.2,Ellen Louise Axson Wilson
+                    7000,-352.06,Helen Herron Taft
+                    6900,503.41,Theodore Roosevelt
+                    7100,-756.8,William Howard Taft
+                    7300,133.22,Woodrow Wilson
+                    7600,682.63,Florence Kling Harding
+                    7500,659.48,Woodrow Wilson
+                    7800,-637.53,Grace Anna Goodhue Coolidge
+                    7777,555.55,Hillary Rodham Clinton
+                    7700,-388.95,Warren G. Harding
+                    8100,-782.1,Herbert Hoover
+                    8000,-44.79,Lou Henry Hoover
+                    9400,-140.16,Betty Bloomer Ford
+                    9000,-823.74,Claudia Taylor Johnson
+                    8700,973.53,Dwight D. Eisenhower
+                    8400,-290.63,Elizabeth Virginia Wallace Truman
+                    8300,-430.19,Franklin D. Roosevelt
+                    8500,331.12,Harry S. Truman
+                    8600,-229.28,Mamie Doud Eisenhower
+                    8888,333.33,George Walker Bush
+                    8800,708.19,Jacqueline Bouvier Kennedy
+                    8900,813.62,John F. Kennedy
+                    9100,-759.52,Lyndon B. Johnson
+                    9200,542.99,Patricia Ryan Nixon
+                    9300,102.96,Richard Milhous Nixon
+                    9500,191.11,Gerald R. Ford
+                    9700,-548.39,Jimmy Carter
+                    9600,-862.57,Rosalynn Smith Carter
+                    9900,222.22,Laura Welch Bush
+                    9800,490.97,Nancy Davis Reagan
+                    9999,496.87,Ronald Reagan
+
+ERROR: No such Person for 5999,0.0,SEARCH KEY
+
+current node      = 6000,-208.54,Caroline Lavinia Scott Harrison
+type              = internal
+depth             = 3
+ancestors         = 
+                    6100,13.99,Benjamin Harrison
+                    8200,-367.36,Abraham Lincoln
+                    5000,918.15,Abigail Powers Fillmore
+left descendants  = 
+                    5500,986.35,Chester A. Arthur
+                    5300,-220.75,James A. Garfield
+                    5200,-513.29,Lucretia Rudolph Garfield
+                    5100,224.75,Rutherford B. Hayes
+                    5400,261.42,Mary McElroy
+                    5800,48.18,Frances Folsom Cleveland
+                    5700,-995.11,Grover Cleveland
+                    5600,669.12,Rose Cleveland
+                    5900,-723.86,Grover Cleveland
+right descendants = none
+
+current node      = 7000,-352.06,Helen Herron Taft
+type              = internal
+depth             = 8
+ancestors         = 
+                    7200,-126.2,Ellen Louise Axson Wilson
+                    6800,-330.13,Edith Kermit Carow Roosevelt
+                    7400,586.55,Edith Bolling Galt Wilson
+                    7900,-536.2,Calvin Coolidge
+                    6300,730.61,Benjamin Harrison
+                    6100,13.99,Benjamin Harrison
+                    8200,-367.36,Abraham Lincoln
+                    5000,918.15,Abigail Powers Fillmore
+left descendants  = 
+                    6900,503.41,Theodore Roosevelt
+right descendants = 
+                    7100,-756.8,William Howard Taft
+
+current node      = 7777,555.55,Hillary Rodham Clinton
+type              = internal
+depth             = 8
+ancestors         = 
+                    7800,-637.53,Grace Anna Goodhue Coolidge
+                    7600,682.63,Florence Kling Harding
+                    7400,586.55,Edith Bolling Galt Wilson
+                    7900,-536.2,Calvin Coolidge
+                    6300,730.61,Benjamin Harrison
+                    6100,13.99,Benjamin Harrison
+                    8200,-367.36,Abraham Lincoln
+                    5000,918.15,Abigail Powers Fillmore
+left descendants  = 
+                    7700,-388.95,Warren G. Harding
+right descendants = none
+
+current node      = 8000,-44.79,Lou Henry Hoover
+type              = leaf
+depth             = 6
+ancestors         = 
+                    8100,-782.1,Herbert Hoover
+                    7900,-536.2,Calvin Coolidge
+                    6300,730.61,Benjamin Harrison
+                    6100,13.99,Benjamin Harrison
+                    8200,-367.36,Abraham Lincoln
+                    5000,918.15,Abigail Powers Fillmore
+left descendants  = none
+right descendants = none
+
+ERROR: No such Person for 8008,0.0,SEARCH KEY
+
+current node      = 9000,-823.74,Claudia Taylor Johnson
+type              = internal
+depth             = 3
+ancestors         = 
+                    9400,-140.16,Betty Bloomer Ford
+                    8200,-367.36,Abraham Lincoln
+                    5000,918.15,Abigail Powers Fillmore
+left descendants  = 
+                    8700,973.53,Dwight D. Eisenhower
+                    8400,-290.63,Elizabeth Virginia Wallace Truman
+                    8300,-430.19,Franklin D. Roosevelt
+                    8500,331.12,Harry S. Truman
+                    8600,-229.28,Mamie Doud Eisenhower
+                    8888,333.33,George Walker Bush
+                    8800,708.19,Jacqueline Bouvier Kennedy
+                    8900,813.62,John F. Kennedy
+right descendants = 
+                    9100,-759.52,Lyndon B. Johnson
+                    9200,542.99,Patricia Ryan Nixon
+                    9300,102.96,Richard Milhous Nixon

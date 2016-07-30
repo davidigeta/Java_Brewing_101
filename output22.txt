@@ -1,0 +1,71 @@
+current node = 1000,689.3,Martha Dandridge Custis Washington
+type         = leaf
+parent       = 1100,369.17,George Washington
+left child   = null
+right child  = null
+
+current node = 2000,267.96,Louisa Catherine Johnson Adams
+type         = leaf
+parent       = 2100,643.27,Emily Donelson
+left child   = null
+right child  = null
+
+current node = 3000,-600.47,Letitia Christian Tyler
+type         = internal
+parent       = 3200,-782.31,John Tyler
+left child   = 2900,-451.92,William Henry Harrison
+right child  = 3100,672.54,Priscilla Cooper Tyler
+
+current node = 3333,777.77,William Jefferson Clinton
+type         = leaf
+parent       = 3400,164.53,Sarah Childress Polk
+left child   = null
+right child  = null
+
+current node = 4000,860.22,Jane Means Appleton Pierce
+type         = internal
+parent       = 3500,-836.1,James K. Polk
+left child   = 3800,-836.03,Lucy Ware Webb Hayes
+right child  = null
+
+ERROR: No such Person for 4001,0.0,SEARCH KEY
+
+current node = 5000,918.15,Abigail Powers Fillmore
+type         = root
+parent       = no parent
+left child   = 1200,-181.29,Abigail Smith Adams
+right child  = 8200,-367.36,Abraham Lincoln
+
+ERROR: No such Person for 5999,0.0,SEARCH KEY
+
+current node = 6000,-208.54,Caroline Lavinia Scott Harrison
+type         = internal
+parent       = 6100,13.99,Benjamin Harrison
+left child   = 5500,986.35,Chester A. Arthur
+right child  = null
+
+current node = 7000,-352.06,Helen Herron Taft
+type         = internal
+parent       = 7200,-126.2,Ellen Louise Axson Wilson
+left child   = 6900,503.41,Theodore Roosevelt
+right child  = 7100,-756.8,William Howard Taft
+
+current node = 7777,555.55,Hillary Rodham Clinton
+type         = internal
+parent       = 7800,-637.53,Grace Anna Goodhue Coolidge
+left child   = 7700,-388.95,Warren G. Harding
+right child  = null
+
+current node = 8000,-44.79,Lou Henry Hoover
+type         = leaf
+parent       = 8100,-782.1,Herbert Hoover
+left child   = null
+right child  = null
+
+ERROR: No such Person for 8008,0.0,SEARCH KEY
+
+current node = 9000,-823.74,Claudia Taylor Johnson
+type         = internal
+parent       = 9400,-140.16,Betty Bloomer Ford
+left child   = 8700,973.53,Dwight D. Eisenhower
+right child  = 9100,-759.52,Lyndon B. Johnson

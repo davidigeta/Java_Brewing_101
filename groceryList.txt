@@ -1,0 +1,7 @@
+Name, Number
+rice, 1
+eggs, 12
+shoyu, 3
+negi, 1
+garlic, 5
+BANANNAS, 50
